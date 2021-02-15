@@ -7,3 +7,5 @@
 - [Google Maps](https://www.google.com/maps) 🗺
 
 <p>I <strong>love</strong> talking about creative coding, so don't hesitate to say hi!</p>
+
+![campfire](campfire-2.gif)
