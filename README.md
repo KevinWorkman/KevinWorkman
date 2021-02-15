@@ -8,4 +8,6 @@ My name is Kevin, and I'm currently working on:
   <li>Google Maps</li>
 </ul>
 
-I **love** talking about creative coding, so don't hesitate to say hi!
+<p>I **love** talking about creative coding, so don't hesitate to say hi!</p>
+
+<button>click me</button>
