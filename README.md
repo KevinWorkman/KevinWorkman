@@ -8,4 +8,4 @@
 
 <p>I <strong>love</strong> talking about creative coding, so don't hesitate to say hi!</p>
 
-<img src="campfire-2.gif" alt="campfire" />
+<img width="250" src="campfire-2.gif" alt="campfire" />
