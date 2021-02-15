@@ -8,4 +8,4 @@
 
 <p>I <strong>love</strong> talking about creative coding, so don't hesitate to say hi!</p>
 
-![campfire](campfire-2.gif)
+<img src="campfire-2.gif" alt="campfire" />
