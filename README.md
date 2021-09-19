@@ -4,8 +4,6 @@
 
 - [Happy Coding](https://happycoding.io) 🎉
 - [Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) 🖤
-- [Google Maps](https://www.google.com/maps) 🗺
+- [Google](https://www.google.com) 👨‍🏫
 
 <p>I <strong>love</strong> talking about creative coding, so don't hesitate to say hi!</p>
-
-<img width="250" src="campfire-2.gif" alt="campfire" />
