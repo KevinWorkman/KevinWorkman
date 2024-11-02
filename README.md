@@ -8,4 +8,6 @@
   <li>Millersville University</li>
 </ul>
 
+<img src="flickering-jack-o-lantern-2.gif" />
+
 <p>I <strong>love</strong> nerding out, so don't hesitate to contact me!</p>
