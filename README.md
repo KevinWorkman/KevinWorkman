@@ -1,9 +1,11 @@
-## Hello world!
+<h2 align="center">Hello world!</h2>
 
-Here are some things I'm working on:
+<p>Here are some things I'm working on:</p>
 
-- Google
-- HappyCoding.io
-- Millersville University
+<ul>
+  <li>Google</li>
+  <li>HappyCoding.io</li>
+  <li>Millersville University</li>
+</ul>
 
-I **love** nerding out, so don't hesitate to contact me!
+<p>I <strong>love</strong> nerding out, so don't hesitate to contact me!</p>
