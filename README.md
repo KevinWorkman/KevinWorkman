@@ -1,7 +1,5 @@
 <h2 align="center">Hello world!</h2>
 
-<p>This was edited on my computer!</p>
-
 <p>Here are some things I'm working on:</p>
 
 <ul>
